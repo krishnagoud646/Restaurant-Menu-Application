@@ -41,6 +41,10 @@ header nav {
   padding: 8px;
 }
 
+#login-button:hover {
+  cursor: pointer;
+}
+
 #nav-list li:hover {
   color: red;
   cursor: pointer;
